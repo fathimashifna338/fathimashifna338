@@ -75,19 +75,19 @@ focus       : Social media content · Branding · Visual identity
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Replace `YOUR_GITHUB_USERNAME`** in the URLs below with your actual GitHub username for live stats.
+> ⚠️ **Replace `fathimashifna338`** in the URLs below with your actual GitHub username for live stats.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fathimashifna338&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimashifna338&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=fathimashifna338&theme=radical&hide_border=true&background=0D1117&cache_seconds=1800"/>
 
 </div>
 
@@ -97,7 +97,7 @@ focus       : Social media content · Branding · Visual identity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fathimashifna338&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
 
 </div>
 
@@ -107,7 +107,7 @@ focus       : Social media content · Branding · Visual identity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://ghchart.rshah.org/F75C7E/fathimashifna338"/>
 
 </div>
 
@@ -118,9 +118,9 @@ focus       : Social media content · Branding · Visual identity
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathimashifna338/fathimashifna338/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fathimashifna338/fathimashifna338/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/fathimashifna338/fathimashifna338/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -131,7 +131,7 @@ focus       : Social media content · Branding · Visual identity
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=F75C7E&style=for-the-badge&label=PROFILE+VIEWS)</div>
+![Profile Views](https://komarev.com/ghpvc/?username=fathimashifna338&color=F75C7E&style=for-the-badge&label=PROFILE+VIEWS)</div>
 
 ---
 
